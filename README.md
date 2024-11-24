@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @onyangotom
-- 👀 I’m a backend software developer|| django
+- 👀 I’m a full-stack software developer with expertise in html, css, javascript, python||django
 - Technical writer, graphics designer
-- 💞️ I’m searching for a collaboration in Technical Writing 
 - 📫 How to reach me onyangotom48@gmail.com
 
 <!---
