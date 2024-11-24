@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @onyangotom
 - 👀 I’m a full-stack software developer with expertise in html, css, javascript, python||django
-- Technical writer, graphics designer
 - 📫 How to reach me onyangotom48@gmail.com
 
 <!---
